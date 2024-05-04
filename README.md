@@ -57,8 +57,8 @@ If you have any questions, suggestions, or feedback, please don't hesitate to re
 - Email: [himanshukumawat13051997@email.com]
 
 ## Links for Repositories:
--Backend: https://github.com/HimanshuKumawat13051997/Entertainment_App_Backend
--Frontend: https://github.com/HimanshuKumawat13051997/Entertainment_App
+- Backend: https://github.com/HimanshuKumawat13051997/Entertainment_App_Backend
+- Frontend: https://github.com/HimanshuKumawat13051997/Entertainment_App
 
 
 Thank you for using the Entertainment App! Enjoy exploring and discovering your favorite entertainment content. 🎬🎵📺
