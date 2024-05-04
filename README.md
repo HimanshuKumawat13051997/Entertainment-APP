@@ -23,14 +23,14 @@ This project leverages several technologies to deliver a smooth and enjoyable us
 ## Getting Started
 
 To get started with the Entertainment App, follow these steps:
-
-1. Clone this repository to your local machine. using ```
-     git clone --recurse-submodules https://github.com/HimanshuKumawat13051997/Entertainment-App.git
+- Clone this repository to your local machine using 
 ```
-2. Install dependencies by running `npm install` in the project directory.
-3. Set up environment variables for API keys and database connections.
-4. Run the development server using `npm start`.
-5. Access the app through your web browser at `http://localhost:3000`.
+git clone --recurse-submodules https://github.com/HimanshuKumawat13051997/Entertainment-App.git
+```
+- Install dependencies by running `npm install` in the project directory.
+- Set up environment variables for API keys and database connections.
+- Run the development server using `npm start`.
+- Access the app through your web browser at `http://localhost:3000`.
 
 ## Contributing
 
@@ -57,6 +57,6 @@ If you have any questions, suggestions, or feedback, please don't hesitate to re
 - Email: [himanshukumawat13051997@email.com]
 
 ## Links for Repositories:
-Backend: `https://github.com/HimanshuKumawat13051997/Entertainment_App_Backend`
-Frontend: `https://github.com/HimanshuKumawat13051997/Entertainment_App`
+Backend: https://github.com/HimanshuKumawat13051997/Entertainment_App_Backend
+Frontend: https://github.com/HimanshuKumawat13051997/Entertainment_App
 Thank you for using the Entertainment App! Enjoy exploring and discovering your favorite entertainment content. 🎬🎵📺
